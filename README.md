@@ -95,7 +95,7 @@ python genetic_algorithm.py \
 @inproceedings{goldfeder2025imagination,
   title={Grounded Imagination Leads to Adaptation},
   author={Goldfeder, Judah and Kaliyur, Shreyes and Sourirajan, Vaibhav and Puma, Patrick Minwan and Wyder, Philippe Martin and Hu, Yuhang and Lin, Jiong and Lipson, Hod},
-  booktitle={ALIFE 2025},
-  year={2025}
+  booktitle={ALIFE 2026},
+  year={2026}
 }
 ```
